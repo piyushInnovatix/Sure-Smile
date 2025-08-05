@@ -1,0 +1,18 @@
+// contact style here
+
+.single-contact-information-card {
+    background: #f0faf2;
+    border: 1px solid #8bc896;
+    padding: 55px;
+    border-radius: 10px;
+    text-align: center;
+
+    .icon {
+        margin-bottom: 25px;
+    }
+
+    a {
+        display: block;
+        color: #110C2D;
+    }
+}
