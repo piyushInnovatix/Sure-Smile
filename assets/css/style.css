@@ -22958,3 +22958,17 @@ li.has-dropdown:hover .submenu {
 }
 
 /*# sourceMappingURL=../maps/style.css.map */
+
+.service-list {
+  font-size: 20px !important;
+  list-style-type: disc;
+}
+
+.service-list li {
+  font-size: 18px;
+}
+
+.service-list li::marker{
+  color: #7ac788;
+  font-size: 20px;
+}
