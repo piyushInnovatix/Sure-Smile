@@ -44,7 +44,7 @@
 ==============================================  */
 /* Default  */
 
-@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Syne:wght@400..800&display=swap');
 
 :root {
   --color-primary: #7ac788;
@@ -83,7 +83,7 @@
   --s-extra-bold: 800;
   --s-black: 900;
   --transition: 0.3s;
-  --font-primary: "Outfit", sans-serif;
+  --font-primary: "Syne", sans-serif;
   --font-secondary: "Funnel Sans", sans-serif;
   --font-3: "fontawesome";
   --font-size-b1: 16px;
@@ -193,7 +193,7 @@ h6,
 .h5,
 .h6 {
   word-break: break-word;
-  font-family: "Outfit", sans-serif;
+  font-family: "Syne", sans-serif;
   line-height: 1.4074;
   color: var(--color-heading-1);
 }
@@ -458,7 +458,7 @@ cite,
 }
 
 var {
-  font-family: "Outfit", sans-serif;
+  font-family: "Syne", sans-serif;
 }
 
 /*---------------------------
@@ -17179,6 +17179,12 @@ header .rts-btn {
   }
 }
 
+.service-hero-img {
+  border: 10px solid #7ac788;
+  border-radius: 20px;
+  width: 100%;
+}
+
 .procedure-iamge-wrapper .thumbnail img {
   width: 100%;
 }
@@ -17481,6 +17487,7 @@ header .rts-btn {
 .single-service-medicle .title-area-rotate {
   position: absolute;
   display: flex;
+  justify-content: center;
   align-items: center;
   flex-direction: row-reverse;
   transform: rotate(-90deg);
@@ -21650,7 +21657,7 @@ li.has-dropdown:hover .submenu {
   height: 44px;
   border-radius: 100px;
   margin-bottom: 16px;
-  border: 1px solid var(--color-border);
+  border: 1px solid #fff;
 }
 
 .custom-select.one {
@@ -22968,7 +22975,7 @@ li.has-dropdown:hover .submenu {
   font-size: 18px;
 }
 
-.service-list li::marker{
+.service-list li::marker {
   color: #7ac788;
   font-size: 20px;
 }

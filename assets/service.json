@@ -9,7 +9,13 @@
         "servicePoint3": "You wear dentures and want a fixed, long-lasting solution",
         "servicePoint4": "You want quicker recovery and immediate teeth placement",
         "serviePostline": "With basal implants, you get a secure, graft-free solution that brings your smile back—fast and fearlessly.",
-        "serviceHow": "At Sure-Smile, we use advanced diagnostics to assess your jawbone and create a tailored surgical plan. Using minimally invasive techniques, the basal implants are placed directly into the strong basal bone — often allowing for teeth in 72 hours, no bone grafts, and very little downtime. You leave with a stable smile that lasts."
+        "serviceHow": "At Sure-Smile, we use advanced diagnostics to assess your jawbone and create a tailored surgical plan. Using minimally invasive techniques, the basal implants are placed directly into the strong basal bone — often allowing for teeth in 72 hours, no bone grafts, and very little downtime. You leave with a stable smile that lasts.",
+        "serviceQue1": "How long do basal implants take to place?",
+        "serviceAns1": "In most cases, they can be placed and loaded with teeth in just 3–5 days.",
+        "serviceQue2": "Are basal implants suitable for people with bone loss?",
+        "serviceAns2": "Yes — they’re specifically designed for patients with minimal bone without the need for grafting.",
+        "serviceQue3": "How long do basal implants last?",
+        "serviceAns3": "With proper care, they can last decades, often a lifetime."
     },
     {
         "id": 2,
@@ -21,7 +27,13 @@
         "servicePoint3": "You want to avoid traditional full-mouth implants",
         "servicePoint4": "You’re looking for a permanent, same-day solution",
         "serviePostline": "Get a complete smile makeover with fewer implants, faster recovery, and lasting confidence.",
-        "serviceHow": "We strategically place four titanium implants into your jawbone and anchor a full arch of teeth onto them. The result? A fixed, natural-looking set of teeth, all done with precision, comfort, and same-day confidence."
+        "serviceHow": "We strategically place four titanium implants into your jawbone and anchor a full arch of teeth onto them. The result? A fixed, natural-looking set of teeth, all done with precision, comfort, and same-day confidence.",
+        "serviceQue1": "What exactly are All-on-4 implants?",
+        "serviceAns1": "A fixed set of teeth supported by just four strategically placed implants in each jaw.",
+        "serviceQue2": "How soon after surgery can I get my new teeth?",
+        "serviceAns2": "Usually within 24–48 hours after the procedure.",
+        "serviceQue3": "Are All-on-4 implants permanent?",
+        "serviceAns3": "Yes — with good oral hygiene and regular checkups, they can last for decades."
     },
     {
         "id": 3,
@@ -33,7 +45,13 @@
         "servicePoint3": "You have multiple damaged or decayed teeth",
         "servicePoint4": "You want a durable, long-term restoration",
         "serviePostline": "Rediscover the joy of eating, speaking, and smiling freely—with a full set of secure, stunning teeth.",
-        "serviceHow": "Our team assesses your oral condition and plans a custom full-mouth implant journey. Multiple implants are placed across the jaw and connected with fixed prosthetics, rebuilding your entire bite and restoring facial harmony."
+        "serviceHow": "Our team assesses your oral condition and plans a custom full-mouth implant journey. Multiple implants are placed across the jaw and connected with fixed prosthetics, rebuilding your entire bite and restoring facial harmony.",
+        "serviceQue1": "How are full mouth implants different from dentures?",
+        "serviceAns1": "They’re fixed, don’t move, feel natural, and allow you to chew like real teeth.",
+        "serviceQue2": "Will I need bone grafting?",
+        "serviceAns2": "In many cases, advanced implant techniques avoid the need for bone grafting.",
+        "serviceQue3": "How long does the full mouth implant process take?",
+        "serviceAns3": "Depending on the case, anywhere from a few days to a few months."
     },
     {
         "id": 4,
@@ -45,7 +63,13 @@
         "servicePoint3": "You want to close small gaps without braces",
         "servicePoint4": "You crave a perfect Hollywood smile",
         "serviePostline": "With veneers, your dream smile is just a few painless steps away—elegant, effortless, eternal.",
-        "serviceHow": "After a consultation, we carefully shape your teeth and take impressions. Your custom veneers are crafted with precision, then bonded seamlessly for a smile that looks and feels natural — but better."
+        "serviceHow": "After a consultation, we carefully shape your teeth and take impressions. Your custom veneers are crafted with precision, then bonded seamlessly for a smile that looks and feels natural — but better.",
+        "serviceQue1": "What problems can veneers fix?",
+        "serviceAns1": "They can correct discoloration, chips, gaps, and minor misalignment.",
+        "serviceQue2": "How long do veneers last?",
+        "serviceAns2": "With proper care, 10–15 years or longer.",
+        "serviceQue3": "Will veneers damage my natural teeth?",
+        "serviceAns3": "No — we only remove a very thin layer of enamel to bond them securely."
     },
     {
         "id": 5,
@@ -57,7 +81,13 @@
         "servicePoint3": "You feel self-conscious about your gummy smile",
         "servicePoint4": "You've experienced gum overgrowth due to medication or oral health issues",
         "serviePostline": "A well-balanced gum line can completely transform how your smile is perceived — subtle but powerful.",
-        "serviceHow": "At Sure-Smile, we use precision dental lasers or micro-surgical tools to gently reshape your gum tissue. The process is minimally invasive, with little to no bleeding and quick healing. The result? A more elegant gum line that frames your teeth like a perfect picture frame."
+        "serviceHow": "At Sure-Smile, we use precision dental lasers or micro-surgical tools to gently reshape your gum tissue. The process is minimally invasive, with little to no bleeding and quick healing. The result? A more elegant gum line that frames your teeth like a perfect picture frame.",
+        "serviceQue1": "What is gum recontouring?",
+        "serviceAns1": "A cosmetic procedure that reshapes your gum line for a more balanced, attractive smile.",
+        "serviceQue2": "Is gum recontouring painful?",
+        "serviceAns2": "With modern laser or anesthetic techniques, it’s virtually painless and heals quickly.",
+        "serviceQue3": "How long is the recovery?",
+        "serviceAns3": "Most people heal fully in 1–2 weeks with minimal discomfort."
     },
     {
         "id": 6,
@@ -69,7 +99,13 @@
         "servicePoint3": "You smoke or have smoked in the past",
         "servicePoint4": "You want a confident, glowing smile for an event or everyday life",
         "serviePostline": "A few shades brighter, and suddenly the world sees you smile differently.",
-        "serviceHow": "Using professional-grade whitening agents and advanced technology, we lift years of stains from your enamel without causing sensitivity. Whether in-clinic or via custom take-home kits, our process ensures even, safe, and long-lasting whitening that actually works — not just marketing fluff."
+        "serviceHow": "Using professional-grade whitening agents and advanced technology, we lift years of stains from your enamel without causing sensitivity. Whether in-clinic or via custom take-home kits, our process ensures even, safe, and long-lasting whitening that actually works — not just marketing fluff.",
+        "serviceQue1": "How white can my teeth get with whitening?",
+        "serviceAns1": "Results vary, but most people see their teeth brighten by 5–8 shades.",
+        "serviceQue2": "Is tooth whitening safe?",
+        "serviceAns2": "Yes — when done professionally, it’s completely safe for your enamel.",
+        "serviceQue3": "How long do whitening results last?",
+        "serviceAns3": "Anywhere from 6 months to 2 years, depending on your lifestyle and habits."
     },
     {
         "id": 7,
@@ -81,7 +117,13 @@
         "servicePoint3": "You experience persistent bad breath",
         "servicePoint4": "Your teeth feel rough or look dull",
         "serviePostline": "Clean teeth don’t just look good — they are the foundation of a healthy mouth.",
-        "serviceHow": "Our skilled dentists use ultrasonic scalers to gently remove hardened plaque and bacteria from your teeth and beneath the gum line. After that, we polish your enamel smooth to prevent future buildup and leave your teeth sparkling clean and refreshed."
+        "serviceHow": "Our skilled dentists use ultrasonic scalers to gently remove hardened plaque and bacteria from your teeth and beneath the gum line. After that, we polish your enamel smooth to prevent future buildup and leave your teeth sparkling clean and refreshed.",
+        "serviceQue1": "What’s the difference between scaling and polishing?",
+        "serviceAns1": "Scaling removes plaque and tartar; polishing smooths and shines your teeth afterward.",
+        "serviceQue2": "How often should I get scaling done?",
+        "serviceAns2": "Usually every 6 months, but more often if you’re prone to gum issues.",
+        "serviceQue3": "Does scaling hurt?",
+        "serviceAns3": "Not usually — it might feel a bit uncomfortable, but it’s quick and gentle."
     },
     {
         "id": 8,
@@ -93,7 +135,13 @@
         "servicePoint3": "You’ve lost confidence while speaking or smiling",
         "servicePoint4": "You’re seeking a total smile transformation",
         "serviePostline": "Your smile is your signature — let’s make it one you’re proud to wear.",
-        "serviceHow": "We begin with a detailed digital smile design consultation to understand your goals. Then, using a mix of veneers, whitening, recontouring, alignment, and more — we build your ideal smile, step by step. Every detail is tailored to match your personality, facial symmetry, and lifestyle."
+        "serviceHow": "We begin with a detailed digital smile design consultation to understand your goals. Then, using a mix of veneers, whitening, recontouring, alignment, and more — we build your ideal smile, step by step. Every detail is tailored to match your personality, facial symmetry, and lifestyle.",
+        "serviceQue1": "What’s included in a smile makeover?",
+        "serviceAns1": "A custom blend of treatments like veneers, whitening, bonding, and gum contouring to transform your smile.",
+        "serviceQue2": "How long does a smile makeover take?",
+        "serviceAns2": "From one visit to a few weeks, depending on the procedures involved.",
+        "serviceQue3": "Is a smile makeover only cosmetic?",
+        "serviceAns3": "Mostly cosmetic, but it can also improve bite function and oral health."
     },
     {
         "id": 9,
@@ -105,7 +153,13 @@
         "servicePoint3": "Swollen or tender gums near the tooth",
         "servicePoint4": "Darkening of the tooth",
         "serviePostline": "Root Canal isn’t painful — it’s pain relief in its finest form.",
-        "serviceHow": "Using advanced rotary tools and digital imaging, we access the root chamber, remove infected pulp, disinfect thoroughly, and seal the canals. The procedure is done under local anesthesia and is often completed in just one or two sittings — precision without panic."
+        "serviceHow": "Using advanced rotary tools and digital imaging, we access the root chamber, remove infected pulp, disinfect thoroughly, and seal the canals. The procedure is done under local anesthesia and is often completed in just one or two sittings — precision without panic.",
+        "serviceQue1": "Is a root canal painful?",
+        "serviceAns1": "Thanks to modern anesthesia, it’s no more painful than a regular filling.",
+        "serviceQue2": "Why would I need a root canal?",
+        "serviceAns2": "To save a tooth that’s badly infected or decayed without removing it.",
+        "serviceQue3": "How long does a root canal last?",
+        "serviceAns3": "With proper care, a treated tooth can last a lifetime."
     },
     {
         "id": 10,
@@ -117,7 +171,13 @@
         "servicePoint3": "Rough or chipped tooth surface",
         "servicePoint4": "Sensitivity when biting down",
         "serviePostline": "Small fix now, saves the tooth from big trouble later.",
-        "serviceHow": "We clean out the decayed portion of the tooth, prepare the surface, and fill it with composite resin that matches your natural tooth color. It’s quick, safe, and barely noticeable — like the cavity never existed."
+        "serviceHow": "We clean out the decayed portion of the tooth, prepare the surface, and fill it with composite resin that matches your natural tooth color. It’s quick, safe, and barely noticeable — like the cavity never existed.",
+        "serviceQue1": "When do I need a dental filling?",
+        "serviceAns1": "When a tooth has decay, cracks, or wear that needs to be restored.",
+        "serviceQue2": "How long do fillings last?",
+        "serviceAns2": "Composite fillings can last 5–10 years with good oral care.",
+        "serviceQue3": "Will it hurt to get a filling?",
+        "serviceAns3": "With anesthesia, you won’t feel pain — just mild pressure or vibration."
     },
     {
         "id": 11,
@@ -129,7 +189,13 @@
         "servicePoint3": "You need a crown but there's minimal tooth left",
         "servicePoint4": "Your crown has repeatedly failed or fallen off",
         "serviePostline": "A strong core builds the strength for a long-lasting crown.",
-        "serviceHow": "A small post is placed inside the cleaned root canal to anchor a composite or metal core buildup. Once this artificial structure is in place, it provides a stable base for your permanent crown. Strong, seamless, and built to last."
+        "serviceHow": "A small post is placed inside the cleaned root canal to anchor a composite or metal core buildup. Once this artificial structure is in place, it provides a stable base for your permanent crown. Strong, seamless, and built to last.",
+        "serviceQue1": "What is a post and core build-up?",
+        "serviceAns1": "A procedure to rebuild a tooth’s structure after root canal treatment so it can support a crown.",
+        "serviceQue2": "Is it necessary for every root canal?",
+        "serviceAns2": "Only if the tooth has lost significant structure and needs extra support.",
+        "serviceQue3": "How long does the process take?",
+        "serviceAns3": "Usually one appointment before placing the crown."
     },
     {
         "id": 12,
@@ -141,7 +207,13 @@
         "servicePoint3": "Difficulty chewing due to misalignment",
         "servicePoint4": "Jaw strain or speech issues",
         "serviePostline": "Braces don’t just align teeth — they shape confidence.",
-        "serviceHow": "We fix metal or ceramic brackets to your teeth, connected by an archwire that’s adjusted periodically. With precise planning and regular checkups, your smile evolves safely and beautifully — one wire turn at a time."
+        "serviceHow": "We fix metal or ceramic brackets to your teeth, connected by an archwire that’s adjusted periodically. With precise planning and regular checkups, your smile evolves safely and beautifully — one wire turn at a time.",
+        "serviceQue1": "What problems can braces fix?",
+        "serviceAns1": "Crooked teeth, crowding, gaps, and bite issues like overbite or underbite.",
+        "serviceQue2": "How long will I need braces?",
+        "serviceAns2": "Typically 12–24 months, depending on the complexity.",
+        "serviceQue3": "Are braces painful?",
+        "serviceAns3": "You might feel soreness for a few days after adjustments, but it’s temporary."
     },
     {
         "id": 13,
@@ -153,7 +225,13 @@
         "servicePoint3": "You need flexibility in daily life",
         "servicePoint4": "You're looking for a faster, lifestyle-friendly option",
         "serviePostline": "Invisible on your teeth, but loud in results.",
-        "serviceHow": "We start with a digital scan of your mouth to create a custom series of aligners. You wear each tray for about two weeks before moving to the next, slowly guiding your teeth into alignment. No wires, no hassle — just results you can see and feel."
+        "serviceHow": "We start with a digital scan of your mouth to create a custom series of aligners. You wear each tray for about two weeks before moving to the next, slowly guiding your teeth into alignment. No wires, no hassle — just results you can see and feel.",
+        "serviceQue1": "How are clear aligners different from braces?",
+        "serviceAns1": "They’re removable, nearly invisible, and more comfortable, but work best for mild-to-moderate alignment issues.",
+        "serviceQue2": "How long do I need to wear them daily?",
+        "serviceAns2": "At least 20–22 hours for best results.",
+        "serviceQue3": "Can I eat with clear aligners?",
+        "serviceAns3": "No — remove them before eating or drinking anything other than water."
     },
     {
         "id": 14,
@@ -165,7 +243,13 @@
         "servicePoint3": "Overcrowding or preparation for braces",
         "servicePoint4": "Loose tooth due to gum disease",
         "serviePostline": "Sometimes the best way forward is letting go of what hurts.",
-        "serviceHow": "Under local anesthesia, we gently loosen the tooth with modern tools and extract it with minimal trauma. For surgical extractions, especially for broken or impacted teeth, we use precision cutting and stitching to ensure smooth healing."
+        "serviceHow": "Under local anesthesia, we gently loosen the tooth with modern tools and extract it with minimal trauma. For surgical extractions, especially for broken or impacted teeth, we use precision cutting and stitching to ensure smooth healing.",
+        "serviceQue1": "When is tooth extraction necessary?",
+        "serviceAns1": "For severe decay, damage, overcrowding, or impacted teeth.",
+        "serviceQue2": "Is extraction painful?",
+        "serviceAns2": "No — it’s done under anesthesia, though mild soreness afterward is normal.",
+        "serviceQue3": "How long does recovery take?",
+        "serviceAns3": "Usually a few days, with complete healing in 1–2 weeks."
     },
     {
         "id": 15,
@@ -177,7 +261,13 @@
         "servicePoint3": "Gum infection or cyst formation",
         "servicePoint4": "Pressure on adjacent teeth",
         "serviePostline": "Freeing a trapped tooth brings peace to your entire mouth.",
-        "serviceHow": "We use digital X-rays to map the position, then surgically access and remove the impacted tooth under local anesthesia. Post-care includes pain management and soft diet — healing starts the moment it’s out."
+        "serviceHow": "We use digital X-rays to map the position, then surgically access and remove the impacted tooth under local anesthesia. Post-care includes pain management and soft diet — healing starts the moment it’s out.",
+        "serviceQue1": "What is an impacted tooth?",
+        "serviceAns1": "A tooth that’s stuck below the gum and can’t erupt normally — often wisdom teeth.",
+        "serviceQue2": "Why do impacted teeth need removal?",
+        "serviceAns2": "To prevent infection, pain, and shifting of nearby teeth.",
+        "serviceQue3": "How is it different from regular extraction?",
+        "serviceAns3": "It’s a minor surgical procedure, sometimes involving cutting the gum and bone."
     },
     {
         "id": 16,
@@ -189,7 +279,13 @@
         "servicePoint3": "Swelling, bruising, or bleeding in facial region",
         "servicePoint4": "Difficulty speaking or eating",
         "serviePostline": "Trauma doesn’t define your smile — recovery does.",
-        "serviceHow": "Every case is unique — we start with imaging and then stabilize teeth, repair fractures, or reposition jaws depending on severity. Multidisciplinary care ensures both cosmetic and functional healing, inside and out."
+        "serviceHow": "Every case is unique — we start with imaging and then stabilize teeth, repair fractures, or reposition jaws depending on severity. Multidisciplinary care ensures both cosmetic and functional healing, inside and out.",
+        "serviceQue1": "What dental issues can facial injuries cause?",
+        "serviceAns1": "Broken teeth, jaw fractures, soft tissue cuts, or damage to gums.",
+        "serviceQue2": "How soon should I seek treatment?",
+        "serviceAns2": "Immediately — dental trauma can worsen if not treated quickly.",
+        "serviceQue3": "Can injured teeth be saved?",
+        "serviceAns3": "In many cases, yes — quick professional care improves the chances."
     },
     {
         "id": 17,
@@ -201,7 +297,13 @@
         "servicePoint3": "Detecting cysts, tumors, or bone issues",
         "servicePoint4": "Wisdom tooth evaluation",
         "serviePostline": "A full view brings full clarity — no surprises, only precision.",
-        "serviceHow": "You simply stand still while the machine rotates around your head, capturing a detailed scan in seconds. There’s no pain, no contact, just instant insight for smarter decisions."
+        "serviceHow": "You simply stand still while the machine rotates around your head, capturing a detailed scan in seconds. There’s no pain, no contact, just instant insight for smarter decisions.",
+        "serviceQue1": "What is a full mouth OPG?",
+        "serviceAns1": "It’s a panoramic dental X-ray that shows all your teeth, jaws, and surrounding structures in one image.",
+        "serviceQue2": "Is it safe?",
+        "serviceAns2": "Yes — it uses very low radiation and is safe for most patients.",
+        "serviceQue3": "Why would I need an OPG?",
+        "serviceAns3": "For diagnosis of jaw issues, wisdom teeth, fractures, and overall oral health."
     },
     {
         "id": 18,
@@ -213,7 +315,13 @@
         "servicePoint3": "Monitoring jaw or bone changes",
         "servicePoint4": "Detecting decay not seen visually",
         "serviePostline": "What you can’t see can still hurt — X-rays catch it early.",
-        "serviceHow": "We use low-radiation digital X-rays for clarity with safety. Whether it’s a bitewing or a full panoramic scan, the process is quick, painless, and guides every treatment with precision."
+        "serviceHow": "We use low-radiation digital X-rays for clarity with safety. Whether it’s a bitewing or a full panoramic scan, the process is quick, painless, and guides every treatment with precision.",
+        "serviceQue1": "Are dental X-rays harmful?",
+        "serviceAns1": "The radiation is minimal and safe, especially with modern digital X-rays.",
+        "serviceQue2": "How often should I get dental X-rays?",
+        "serviceAns2": "Usually once a year, or as recommended by your dentist.",
+        "serviceQue3": "What do dental X-rays detect?",
+        "serviceAns3": "Cavities, bone loss, infections, and hidden dental problems."
     },
     {
         "id": 19,
@@ -225,7 +333,13 @@
         "servicePoint3": "Headaches or earaches",
         "servicePoint4": "Pain while talking, chewing, or yawning",
         "serviePostline": "A calm jaw brings back ease to everyday life.",
-        "serviceHow": "We begin with a physical exam and X-rays or 3D scans. Treatment may include bite splints, physiotherapy, muscle relaxants, or adjusting your bite alignment. In complex cases, surgery may be considered — but only after conservative paths."
+        "serviceHow": "We begin with a physical exam and X-rays or 3D scans. Treatment may include bite splints, physiotherapy, muscle relaxants, or adjusting your bite alignment. In complex cases, surgery may be considered — but only after conservative paths.",
+        "serviceQue1": "What causes TMJ joint pain?",
+        "serviceAns1": "Jaw joint disorders, teeth grinding, arthritis, or jaw injury.",
+        "serviceQue2": "How is TMJ pain treated?",
+        "serviceAns2": "Through bite correction, mouthguards, physiotherapy, and sometimes medication.",
+        "serviceQue3": "Can stress cause TMJ pain?",
+        "serviceAns3": "Yes — stress can lead to jaw clenching and worsen TMJ symptoms."
     },
     {
         "id": 20,
@@ -237,7 +351,13 @@
         "servicePoint3": "Difficulty chewing or speaking",
         "servicePoint4": "Worn-out crowns, bridges, or fillings",
         "serviePostline": "A new smile isn't just cosmetic — it’s transformational.",
-        "serviceHow": "We assess your bite, jaw, gums, and teeth with 3D imaging and scans. Then, we build a personalized plan that may include implants, crowns, veneers, and orthodontics — all layered with care over multiple sittings."
+        "serviceHow": "We assess your bite, jaw, gums, and teeth with 3D imaging and scans. Then, we build a personalized plan that may include implants, crowns, veneers, and orthodontics — all layered with care over multiple sittings.",
+        "serviceQue1": "What is full mouth rehabilitation?",
+        "serviceAns1": "A complete restoration of all teeth using a combination of dental treatments.",
+        "serviceQue2": "Who needs it?",
+        "serviceAns2": "Patients with severely worn, damaged, or missing teeth.",
+        "serviceQue3": "How long does it take?",
+        "serviceAns3": "It can take several weeks to months depending on treatment complexity."
     },
     {
         "id": 21,
@@ -249,7 +369,13 @@
         "servicePoint3": "Thumb sucking, mouth breathing, or speech issues",
         "servicePoint4": "Frequent toothache or sensitivity",
         "serviePostline": "Healthy habits start young — and they stick for life.",
-        "serviceHow": "From baby teeth checkups to cavity fills and braces planning — we use gentle techniques, fun distractions, and lots of reassurance. It's dentistry with heart, for the future."
+        "serviceHow": "From baby teeth checkups to cavity fills and braces planning — we use gentle techniques, fun distractions, and lots of reassurance. It's dentistry with heart, for the future.",
+        "serviceQue1": "When should my child first visit a dentist?",
+        "serviceAns1": "By their first birthday or when their first tooth erupts.",
+        "serviceQue2": "How often should kids see a dentist?",
+        "serviceAns2": "Every six months for check-ups and preventive care.",
+        "serviceQue3": "Are dental treatments safe for kids?",
+        "serviceAns3": "Yes — pediatric dentists are trained to care for children’s needs safely."
     },
     {
         "id": 22,
@@ -261,7 +387,13 @@
         "servicePoint3": "Recurrent or multiple ulcers",
         "servicePoint4": "Signs of infection or bleeding",
         "serviePostline": "A pain-free mouth brings back joy to food, speech, and life.",
-        "serviceHow": "We diagnose the cause, then treat with medicated gels, laser therapy, or lifestyle advice. For chronic cases, we investigate deeper with blood tests and nutritional guidance."
+        "serviceHow": "We diagnose the cause, then treat with medicated gels, laser therapy, or lifestyle advice. For chronic cases, we investigate deeper with blood tests and nutritional guidance.",
+        "serviceQue1": "What causes mouth ulcers?",
+        "serviceAns1": "Stress, vitamin deficiencies, injuries, or certain foods.",
+        "serviceQue2": "How long do mouth ulcers take to heal?",
+        "serviceAns2": "Usually 7–14 days without treatment, but faster with medication.",
+        "serviceQue3": "When should I see a dentist for ulcers?",
+        "serviceAns3": "If they last more than 2 weeks or keep coming back."
     },
     {
         "id": 23,
@@ -273,6 +405,12 @@
         "servicePoint3": "Teeth shifting or misalignment",
         "servicePoint4": "Cysts or decay near the wisdom tooth",
         "serviePostline": "Clearing wisdom teeth makes space for everything else to shine.",
-        "serviceHow": "We use OPG scans to assess position, then remove them under local or general anesthesia. Healing is guided with care — ice packs, pain meds, and expert follow-up."
+        "serviceHow": "We use OPG scans to assess position, then remove them under local or general anesthesia. Healing is guided with care — ice packs, pain meds, and expert follow-up.",
+        "serviceQue1": "Why do wisdom teeth need removal?",
+        "serviceAns1": "When they cause pain, infection, crowding, or are impacted.",
+        "serviceQue2": "Is the procedure painful?",
+        "serviceAns2": "No — it’s done under anesthesia; mild soreness afterward is normal.",
+        "serviceQue3": "How long is recovery?",
+        "serviceAns3": "3–7 days for most patients, depending on the case."
     }
 ]

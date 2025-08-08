@@ -22,6 +22,12 @@ fetch("/assets/service.json")
         document.getElementById('service_p4').textContent = details.servicePoint4
         document.getElementById('service_pdisc').textContent = details.serviePostline
         document.getElementById('service_how').textContent = details.serviceHow
+        document.getElementById("ques1").textContent = details.serviceQue1
+        document.getElementById("ans1").textContent = details.serviceAns1 
+        document.getElementById("ques2").textContent = details.serviceQue2
+        document.getElementById("ans2").textContent = details.serviceAns2
+        document.getElementById("ques3").textContent = details.serviceQue3
+        document.getElementById("ans3").textContent = details.serviceAns3 
                 
     }
 })
