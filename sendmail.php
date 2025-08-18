@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $subject = "New Contact Form Submission from $name";
 
     $body  = "Name: $name\n";
-    $body .= "Email: $email\n\n";
+    $body .= "Phone: $email\n\n";
     $body .= "Message:\n$message\n";
 
     $headers  = "From: Your Website <no-reply@yourdomain.com>\r\n";

@@ -717,8 +717,8 @@
                         <h2 class="title mb--40">Make an Appoinment</h2>
                         <form action="sendmail.php" method="POST">
                             <div class="half-input-wrapper">
-                                <input type="text" placeholder="Patient name">
-                                <input type="text" placeholder="Phone Number">
+                                <input name="name" type="text" placeholder="Patient name">
+                                <input name="email" type="text" placeholder="Phone Number">
                             </div>
 
                             <div class="input-half-wrapper datepicker-wrapper">
@@ -742,7 +742,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <textarea class="mb--15" style="border-color: #fff;" name="#" id="textarea"
+                            <textarea name="message" class="mb--15" style="border-color: #fff;" name="#" id="textarea"
                                 placeholder="Enter Message"></textarea>
                             <a type="submit" class="rts-btn btn-primary">Appoinment <img alt=""></a>
                         </form>
