@@ -14577,17 +14577,29 @@ Copyright (c) 2015 Daniel Eden
 }
 
 .header--sticky {
-  transition: 0.3s;
+  height: auto;
+  transition: all 0.3s ease;
 }
 
 .header--sticky.sticky {
   position: fixed !important;
   top: 0;
+  left: 0;
+  right: 0;
   display: block;
   width: 100%;
   box-shadow: 0px 7px 18px rgba(24, 16, 16, 0.0509803922);
   background: #fff;
   z-index: 999;
+}
+
+.header-spacing {
+  height: 220px;
+  display: none;
+}
+
+.header--sticky.sticky + .header-spacing {
+    display: block;
 }
 
 .title-area-center {
@@ -14630,7 +14642,7 @@ Copyright (c) 2015 Daniel Eden
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 30px 0;
+  padding: 20px 0;
 }
 
 @media only screen and (max-width: 991px) {
@@ -21175,6 +21187,7 @@ li.has-dropdown:hover .submenu {
   width: 100%;
   height: auto;
   display: block;
+  user-select: none;
 }
 
 .after-before-main-wrapper-one .comparison-slider-wrapper .comparison-slider .overlay {
@@ -21209,6 +21222,7 @@ li.has-dropdown:hover .submenu {
   display: block;
   min-width: 100%;
   max-width: none;
+  user-select: none;
 }
 
 .after-before-main-wrapper-one .comparison-slider-wrapper .comparison-slider .resize .overlay {

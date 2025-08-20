@@ -559,9 +559,15 @@
     stickyHeader: function (e) {
       $(window).scroll(function () {
         if ($(this).scrollTop() > 150) {
-          $('.header--sticky').addClass('sticky')
+          $('.header--sticky').addClass('will-sticky')
         } else {
+          $('.header--sticky').removeClass('will-sticky')
           $('.header--sticky').removeClass('sticky')
+        }
+
+        if($(this).scrollTop() > 400) {
+          $('.header--sticky').addClass('sticky')
+          $('.header--sticky').removeClass('will-sticky')
         }
       })
     },
