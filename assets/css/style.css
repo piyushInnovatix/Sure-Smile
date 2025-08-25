@@ -22091,6 +22091,7 @@ li.has-dropdown:hover .submenu {
 
 .large-team-details-thumbnail img {
   width: 100%;
+  border-radius: 20px;
 }
 
 .large-doctor-details-area-left .bottom-doctor-details {
@@ -22118,6 +22119,13 @@ li.has-dropdown:hover .submenu {
   margin: 0;
 }
 
+.doctor-all-details-area{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
 .doctor-all-details-area .pre-title {
   color: var(--color-primary);
   padding: 5px 12px;
@@ -22128,8 +22136,12 @@ li.has-dropdown:hover .submenu {
   max-width: max-content;
 }
 
+.doctor-all-details-area .title {
+  font-size: 60px;
+}
+
 .doctor-all-details-area .name {
-  font-size: 36px;
+  font-size: 30px;
 }
 
 @media only screen and (max-width: 575px) {
